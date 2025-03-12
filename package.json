@@ -18,17 +18,16 @@
     "url": "https://github.com/guardly/loopback-connector-couchbase.git"
   },
   "dependencies": {
-    "async": "~0.9.0",
+    "async": "^3.2.6",
     "couchbase": "^4.4.5",
     "debug": "1.0.4",
-    "loopback": "2.8.6",
-    "loopback-connector": "1.2.0",
-    "loopback-datasource-juggler": "2.12.0",
+    "loopback-connector": "^6.2.1",
     "node-dir": "0.1.6",
     "node-uuid": "1.4.1"
   },
   "devDependencies": {
-    "rc": "~0.4.0"
+    "rc": "~0.4.0"，
+    "loopback-datasource-juggler": "^5.1.5"
   },
   "license": {
     "name": "MIT",
