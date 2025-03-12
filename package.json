@@ -26,7 +26,7 @@
     "node-uuid": "1.4.1"
   },
   "devDependencies": {
-    "rc": "~0.4.0"，
+    "rc": "~0.4.0",
     "loopback-datasource-juggler": "^5.1.5"
   },
   "license": {
